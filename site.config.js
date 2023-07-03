@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `haley-log`,
-      href: "https://dshaley.vercel.app",
+      href: "https://dshaley.vercel.app", // 추후 github 주소 or 다른 site 연결하기
     },
   ],
   // blog setting (required)
